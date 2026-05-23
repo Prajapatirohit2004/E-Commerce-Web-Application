@@ -1,20 +1,124 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 🛒 E-Commerce Web Application
 
-# Run and deploy your AI Studio app
+A modern full-stack E-Commerce web application built with React, TypeScript, Express, and Vite.
+This project includes product browsing, cart management, checkout flow, authentication, admin controls, and order tracking functionalities.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/dbf1a4ea-e790-478d-8b19-31bd2a882c69
+## 🚀 Features
 
-## Run Locally
+* 🔐 User Authentication & Authorization
+* 🛍️ Product Catalog & Product Details
+* 🛒 Add to Cart Functionality
+* 💳 Checkout System
+* 📦 Order Tracking & Order History
+* 👨‍💼 Admin Dashboard for Product Management
+* ⚡ Responsive & Modern UI
+* 🌐 Backend API Integration
 
-**Prerequisites:**  Node.js
+---
 
+## 🛠️ Tech Stack
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### Frontend
+
+* React.js
+* TypeScript
+* Vite
+* Tailwind CSS
+
+### Backend
+
+* Node.js
+* Express.js
+
+### Other Tools
+
+* REST APIs
+* Git & GitHub
+
+---
+
+## 📂 Project Structure
+
+```bash
+src/
+ ├── components/
+ ├── App.tsx
+ ├── api.ts
+ ├── types.ts
+server.ts
+package.json
+vite.config.ts
+```
+
+---
+
+## ⚙️ Installation & Setup
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/e-commerce-web-application.git
+```
+
+### 2️⃣ Open Project Folder
+
+```bash
+cd e-commerce-web-application
+```
+
+### 3️⃣ Install Dependencies
+
+```bash
+npm install
+```
+
+### 4️⃣ Start Development Server
+
+```bash
+npm run dev
+```
+
+---
+
+## 📸 Core Modules
+
+* Authentication System
+* Product Management
+* Shopping Cart
+* Checkout Flow
+* Admin Dashboard
+* Order Management
+
+---
+
+## 🎯 Expected Outcome
+
+This project helps in understanding:
+
+* Full-stack web development
+* API handling
+* Authentication systems
+* State management
+* Real-world e-commerce workflows
+* Frontend & backend integration
+
+---
+
+## 📌 Future Improvements
+
+* Payment Gateway Integration
+* Database Connectivity
+* JWT Authentication
+* Wishlist Feature
+* Search & Filter System
+* Deployment on Vercel/Render
+
+---
+
+## 👨‍💻 Author
+
+Rohit Kumar Prajapati
+
+If you like this project, give it a ⭐ on GitHub.
