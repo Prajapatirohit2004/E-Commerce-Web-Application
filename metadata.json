@@ -1,0 +1,6 @@
+{
+  "name": "E-Commerce Web Application",
+  "description": "Full-stack E-Commerce web application with product management, custom roles (User/Admin), shopping cart, checkout, and order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
